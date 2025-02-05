@@ -1,0 +1,6 @@
+*{  margin: 10; /* margem externa */
+    padding: 0; /*magem do conteúdo apartir da tag*/
+    box-sizing: border-box; /*indica que o tamanho agora levará 
+   em conta até a borda */
+    text-decoration: none; /
+   }
